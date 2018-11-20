@@ -1,0 +1,2 @@
+network = "mynet"
+server = "myserver"
